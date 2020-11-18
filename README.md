@@ -1,4 +1,4 @@
-# eeg_experiments
+# EEG_experiments
 
 `pip install -r requirements.txt`
 
