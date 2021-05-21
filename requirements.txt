@@ -1,11 +1,9 @@
-musels
+muselsl
 mne
-time
 numpy
 scipy
 pandas
 matplotlib
 seaborn
-scipy
 sklearn
 pyriemann
